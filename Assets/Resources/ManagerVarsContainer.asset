@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbda48b11f02f034c9355c574c80ab6f, type: 3}
+  m_Name: ManagerVarsContainer
+  m_EditorClassIdentifier: 
+  bgThemeSpriteList:
+  - {fileID: 21300000, guid: 5feddf0396f8fd842b6a2034a343e884, type: 3}
+  - {fileID: 21300000, guid: 9c7f8abaceea58e4db628c3935ed7c4a, type: 3}
+  - {fileID: 21300000, guid: 274864b118ac4f54589e32e7035cd77f, type: 3}
+  - {fileID: 21300000, guid: 81cb795749aefac4ea7663bc3f7f71fb, type: 3}
+  platformSpriteList:
+  - {fileID: 21300002, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300012, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300004, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  - {fileID: 21300000, guid: 20da7e56cbb26b3498b25fb61fa9a7ff, type: 3}
+  next_x: 0.554
+  next_y: 0.645
+  normalPlatformPre: {fileID: 4354375453664939194, guid: 271e76f4bdec3414cbf79a23745c2229,
+    type: 3}
+  characterPre: {fileID: 4361601207870770558, guid: 78ed898107412a1438c7b8891b86079f,
+    type: 3}
+  commonPlatformGroupList:
+  - {fileID: 3583807337899337163, guid: b9c5f104e8e8f4e45871b51477111966, type: 3}
+  - {fileID: 3312202806982764373, guid: 1b49bf0604fb33e44b279f6b8290884d, type: 3}
+  - {fileID: 8563221460728295305, guid: d1d38bcb7562868438da0e962d74da46, type: 3}
+  - {fileID: 2413087914934845697, guid: 5f15dcf3623f859408e035f97a9995d0, type: 3}
+  grassPlatformGroupList:
+  - {fileID: 8176545229887068580, guid: e8ca5e57d7a455c438b25b78d52a54b7, type: 3}
+  - {fileID: 1085458225005702640, guid: b210a9a24037c2043954c35e19d79e39, type: 3}
+  winterPlatformGroupList:
+  - {fileID: 4562002762977139333, guid: 89e1cb09f17185941ba8ab6e34a4fc3d, type: 3}
+  - {fileID: 1276564450923714869, guid: cc408c1205be87a4298c4a3572539ca6, type: 3}
+  - {fileID: 6093852412429568819, guid: 42e67a3810b16994eaff7c7d89b6269b, type: 3}
+  spikePlatformRight: {fileID: 7328134112882855005, guid: df620bee0868aaa4aa5501c65c4c2b90,
+    type: 3}
+  spikePlatformLeft: {fileID: 3780121941069582878, guid: dd4d69b8f3aec914384de1935b7fb0a0,
+    type: 3}
